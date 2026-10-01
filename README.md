@@ -23,6 +23,7 @@ React and Next.js application created for CPAN 144.
 ```bash
 npm install
 npm run dev
+```
 
 ## Screenshots
 
